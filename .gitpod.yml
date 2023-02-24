@@ -1,6 +1,8 @@
 tasks:
   - init: npm install
-    command: npm start
+    command: |
+      export NODE_ENV=ctf
+      npm start
 
 ports:
   - name: OWASP Juice Shop
