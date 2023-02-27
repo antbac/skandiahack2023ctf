@@ -4,7 +4,6 @@ Skandia hackathon CTF 2023!
 
 - [Setup](#setup)
     - [From Sources](#from-sources)
-    - [Heroku](#heroku)
     - [Gitpod](#gitpod)
 
 ## Setup
